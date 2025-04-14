@@ -1,0 +1,4 @@
+2025-04-15 01:17:32,204 - INFO - script Started
+2025-04-15 01:17:38,688 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-04-15 01:18:04,620 - INFO - CSV saved sucessfully
+2025-04-15 01:18:07,457 - INFO - Email notification sent
